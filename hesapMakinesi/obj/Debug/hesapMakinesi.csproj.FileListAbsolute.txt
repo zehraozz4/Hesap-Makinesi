@@ -1,0 +1,7 @@
+C:\Users\ASUS\OneDrive\Masaüstü\c#\hesapMakinesi\hesapMakinesi\obj\Debug\hesapMakinesi.csproj.AssemblyReference.cache
+C:\Users\ASUS\OneDrive\Masaüstü\c#\hesapMakinesi\hesapMakinesi\obj\Debug\hesapMakinesi.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive\Masaüstü\c#\hesapMakinesi\hesapMakinesi\bin\Debug\hesapMakinesi.exe.config
+C:\Users\ASUS\OneDrive\Masaüstü\c#\hesapMakinesi\hesapMakinesi\bin\Debug\hesapMakinesi.exe
+C:\Users\ASUS\OneDrive\Masaüstü\c#\hesapMakinesi\hesapMakinesi\bin\Debug\hesapMakinesi.pdb
+C:\Users\ASUS\OneDrive\Masaüstü\c#\hesapMakinesi\hesapMakinesi\obj\Debug\hesapMakinesi.exe
+C:\Users\ASUS\OneDrive\Masaüstü\c#\hesapMakinesi\hesapMakinesi\obj\Debug\hesapMakinesi.pdb
